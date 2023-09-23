@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/responsive-bookstore-app/static/css/main.5f96f5d5.css",
+    "main.js": "/responsive-bookstore-app/static/js/main.f9b63d0f.js",
+    "index.html": "/responsive-bookstore-app/index.html",
+    "main.5f96f5d5.css.map": "/responsive-bookstore-app/static/css/main.5f96f5d5.css.map",
+    "main.f9b63d0f.js.map": "/responsive-bookstore-app/static/js/main.f9b63d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f96f5d5.css",
+    "static/js/main.f9b63d0f.js"
+  ]
+}
